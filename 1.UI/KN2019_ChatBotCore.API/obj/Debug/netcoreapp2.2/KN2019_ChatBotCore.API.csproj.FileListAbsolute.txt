@@ -1,0 +1,14 @@
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\1.UI\KN2019_ChatBotCore.API\obj\Debug\netcoreapp2.2\KN2019_ChatBotCore.API.csprojAssemblyReference.cache
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\1.UI\KN2019_ChatBotCore.API\obj\Debug\netcoreapp2.2\KN2019_ChatBotCore.API.csproj.CoreCompileInputs.cache
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\1.UI\KN2019_ChatBotCore.API\obj\Debug\netcoreapp2.2\KN2019_ChatBotCore.API.RazorAssemblyInfo.cache
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\1.UI\KN2019_ChatBotCore.API\obj\Debug\netcoreapp2.2\KN2019_ChatBotCore.API.RazorAssemblyInfo.cs
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\1.UI\KN2019_ChatBotCore.API\obj\Debug\netcoreapp2.2\KN2019_ChatBotCore.API.AssemblyInfoInputs.cache
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\1.UI\KN2019_ChatBotCore.API\obj\Debug\netcoreapp2.2\KN2019_ChatBotCore.API.AssemblyInfo.cs
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\1.UI\KN2019_ChatBotCore.API\bin\Debug\netcoreapp2.2\KN2019_ChatBotCore.API.deps.json
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\1.UI\KN2019_ChatBotCore.API\bin\Debug\netcoreapp2.2\KN2019_ChatBotCore.API.runtimeconfig.json
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\1.UI\KN2019_ChatBotCore.API\bin\Debug\netcoreapp2.2\KN2019_ChatBotCore.API.runtimeconfig.dev.json
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\1.UI\KN2019_ChatBotCore.API\bin\Debug\netcoreapp2.2\KN2019_ChatBotCore.API.dll
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\1.UI\KN2019_ChatBotCore.API\bin\Debug\netcoreapp2.2\KN2019_ChatBotCore.API.pdb
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\1.UI\KN2019_ChatBotCore.API\obj\Debug\netcoreapp2.2\KN2019_ChatBotCore.API.RazorTargetAssemblyInfo.cache
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\1.UI\KN2019_ChatBotCore.API\obj\Debug\netcoreapp2.2\KN2019_ChatBotCore.API.dll
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\1.UI\KN2019_ChatBotCore.API\obj\Debug\netcoreapp2.2\KN2019_ChatBotCore.API.pdb

@@ -1,0 +1,9 @@
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\2.Bussiness\KN2019_ChatBotCore.BussLogic\obj\Debug\netcoreapp2.2\KN2019_ChatBotCore.BussLogic.csprojAssemblyReference.cache
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\2.Bussiness\KN2019_ChatBotCore.BussLogic\obj\Debug\netcoreapp2.2\KN2019_ChatBotCore.BussLogic.csproj.CoreCompileInputs.cache
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\2.Bussiness\KN2019_ChatBotCore.BussLogic\obj\Debug\netcoreapp2.2\KN2019_ChatBotCore.BussLogic.AssemblyInfoInputs.cache
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\2.Bussiness\KN2019_ChatBotCore.BussLogic\obj\Debug\netcoreapp2.2\KN2019_ChatBotCore.BussLogic.AssemblyInfo.cs
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\2.Bussiness\KN2019_ChatBotCore.BussLogic\bin\Debug\netcoreapp2.2\KN2019_ChatBotCore.BussLogic.deps.json
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\2.Bussiness\KN2019_ChatBotCore.BussLogic\bin\Debug\netcoreapp2.2\KN2019_ChatBotCore.BussLogic.dll
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\2.Bussiness\KN2019_ChatBotCore.BussLogic\bin\Debug\netcoreapp2.2\KN2019_ChatBotCore.BussLogic.pdb
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\2.Bussiness\KN2019_ChatBotCore.BussLogic\obj\Debug\netcoreapp2.2\KN2019_ChatBotCore.BussLogic.dll
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\2.Bussiness\KN2019_ChatBotCore.BussLogic\obj\Debug\netcoreapp2.2\KN2019_ChatBotCore.BussLogic.pdb

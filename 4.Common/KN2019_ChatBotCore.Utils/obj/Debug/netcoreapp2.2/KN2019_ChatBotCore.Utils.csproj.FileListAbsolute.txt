@@ -1,0 +1,14 @@
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\4.Common\KN2019_ChatBotCore.Utils\bin\Debug\netcoreapp2.2\KN2019_ChatBotCore.Utils.deps.json
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\4.Common\KN2019_ChatBotCore.Utils\bin\Debug\netcoreapp2.2\KN2019_ChatBotCore.Utils.dll
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\4.Common\KN2019_ChatBotCore.Utils\bin\Debug\netcoreapp2.2\KN2019_ChatBotCore.Utils.pdb
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\4.Common\KN2019_ChatBotCore.Utils\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\4.Common\KN2019_ChatBotCore.Utils\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Core.dll
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\4.Common\KN2019_ChatBotCore.Utils\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Authentication.Cookies.xml
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\4.Common\KN2019_ChatBotCore.Utils\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Mvc.Core.xml
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\4.Common\KN2019_ChatBotCore.Utils\obj\Debug\netcoreapp2.2\KN2019_ChatBotCore.Utils.csprojAssemblyReference.cache
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\4.Common\KN2019_ChatBotCore.Utils\obj\Debug\netcoreapp2.2\KN2019_ChatBotCore.Utils.csproj.CoreCompileInputs.cache
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\4.Common\KN2019_ChatBotCore.Utils\obj\Debug\netcoreapp2.2\KN2019_ChatBotCore.Utils.AssemblyInfoInputs.cache
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\4.Common\KN2019_ChatBotCore.Utils\obj\Debug\netcoreapp2.2\KN2019_ChatBotCore.Utils.AssemblyInfo.cs
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\4.Common\KN2019_ChatBotCore.Utils\obj\Debug\netcoreapp2.2\KN2019_ChatBotCore.Utils.csproj.CopyComplete
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\4.Common\KN2019_ChatBotCore.Utils\obj\Debug\netcoreapp2.2\KN2019_ChatBotCore.Utils.dll
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\4.Common\KN2019_ChatBotCore.Utils\obj\Debug\netcoreapp2.2\KN2019_ChatBotCore.Utils.pdb

@@ -1,0 +1,14 @@
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\3.Data Access\KN2019_ChatBotCore.DataAccess\obj\Debug\netcoreapp2.2\KN2019_ChatBotCore.DataAccess.csprojAssemblyReference.cache
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\3.Data Access\KN2019_ChatBotCore.DataAccess\obj\Debug\netcoreapp2.2\KN2019_ChatBotCore.DataAccess.csproj.CoreCompileInputs.cache
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\3.Data Access\KN2019_ChatBotCore.DataAccess\obj\Debug\netcoreapp2.2\KN2019_ChatBotCore.DataAccess.AssemblyInfoInputs.cache
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\3.Data Access\KN2019_ChatBotCore.DataAccess\obj\Debug\netcoreapp2.2\KN2019_ChatBotCore.DataAccess.AssemblyInfo.cs
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\3.Data Access\KN2019_ChatBotCore.DataAccess\bin\Debug\netcoreapp2.2\KN2019_ChatBotCore.DataAccess.deps.json
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\3.Data Access\KN2019_ChatBotCore.DataAccess\bin\Debug\netcoreapp2.2\KN2019_ChatBotCore.DataAccess.dll
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\3.Data Access\KN2019_ChatBotCore.DataAccess\bin\Debug\netcoreapp2.2\KN2019_ChatBotCore.DataAccess.pdb
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\3.Data Access\KN2019_ChatBotCore.DataAccess\bin\Debug\netcoreapp2.2\KN2019_ChatBotCore.BussObject.dll
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\3.Data Access\KN2019_ChatBotCore.DataAccess\bin\Debug\netcoreapp2.2\KN2019_ChatBotCore.Interface.dll
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\3.Data Access\KN2019_ChatBotCore.DataAccess\bin\Debug\netcoreapp2.2\KN2019_ChatBotCore.Interface.pdb
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\3.Data Access\KN2019_ChatBotCore.DataAccess\bin\Debug\netcoreapp2.2\KN2019_ChatBotCore.BussObject.pdb
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\3.Data Access\KN2019_ChatBotCore.DataAccess\obj\Debug\netcoreapp2.2\KN2019_ChatBotCore.DataAccess.csproj.CopyComplete
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\3.Data Access\KN2019_ChatBotCore.DataAccess\obj\Debug\netcoreapp2.2\KN2019_ChatBotCore.DataAccess.dll
+D:\ghqp\repo\ChatBotCore\KN2019_ChatBotCore\3.Data Access\KN2019_ChatBotCore.DataAccess\obj\Debug\netcoreapp2.2\KN2019_ChatBotCore.DataAccess.pdb
